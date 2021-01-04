@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+
 # &#128187; Introdução #
 
 
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left" style="min-width: 300px"> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> </p>
+<p align="left" style="min-width: 300px"> <img src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="html5" width="40" height="40"/><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png" alt="typescript" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="Angular" width="40" height="40"/> </p>
 
 
 
@@ -77,12 +78,3 @@ Connect with me <br>
 </a>
 <a href="https://www.facebook.com/Diogonsc.rj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vlarysc" height="30" width="30" /></a>
 </p>
-<a href="https://www.instagram.com/diogonsc.rj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vlarysc" height="30" width="30" /></a>
-</p>
-
-
-
-
-
-
-

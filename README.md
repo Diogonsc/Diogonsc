@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-​                                                             [![GitHub Diogonsc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/Diogonsc)|&nbsp[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Diogonsc)&nbsp[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-nascimento-02199879/)&nbsp[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diogon21@yahoo.com.br)
+​                                                             [![GitHub Diogonsc](https://img.shields.io/github/followers/vlarysc?label=follow&style=social)](https://github.com/Diogonsc)  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Diogonsc)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-nascimento-02199879/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diogon21@yahoo.com.br)
 
 <div>
     <img align="right" width="50%" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" alt="fullstack developer animated image"/>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<h2>Connect with me </h2> <br>
+Connect with me <br>
 <a href="https://www.linkedin.com/in/diogo-nascimento-02199879/">
   <img align="center" alt="diogo-nascimento LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -79,6 +79,9 @@ Here are some ideas to get you started:
 </p>
 <a href="https://www.instagram.com/diogonsc.rj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vlarysc" height="30" width="30" /></a>
 </p>
+
+
+
 
 
 

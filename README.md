@@ -1,6 +1,6 @@
 
 <div>
-    <img align="right" width="50%" src="https://image.freepik.com/vetores-gratis/desenhos-animados-de-programador-de-software_24640-21623.jpg" alt="fullstack developer animated image"/>
+    <img align="right" width="40%" src="https://image.freepik.com/vetores-gratis/desenhos-animados-de-programador-de-software_24640-21623.jpg" alt="fullstack developer animated image"/>
 
 # &#128187; Introdução 
 

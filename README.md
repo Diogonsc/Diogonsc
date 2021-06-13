@@ -17,7 +17,6 @@ Tenho experiência no desenvolvimento de aplicações Java Script com código li
 
 - ReactJs
 - VueJs
-- Angular
 - C#
 
 Utilizando em conjunto:

@@ -46,7 +46,7 @@ Aliados a algumas qualidades pessoais:
 
 [![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+5521989020276)
 
-[![GitHub vlarysc](https://img.shields.io/github/followers/Diogonsc?label=follow&style=social)](https://github.com/Diogonsc')
+[![GitHub vlarysc](https://img.shields.io/github/followers/Diogonsc?label=follow&style=social)](https://github.com/Diogonsc)
 
 # Minhas Tecnologias
 

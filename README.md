@@ -12,13 +12,6 @@
 
 ### Gosto de compartilhar conhecimento, afinal aprender não ocupa espaço, mais agrega valores. ### 
 
-### Capaz de alternar entre perfeccionismo e pragmatismo. ###
-
-### Acredita no desenvolvimento ágil de software, trabalho em equipe e Código Limpo. ###  
-
-### Capaz e disposto a pensar fora da caixa. ###
-
-### Crescendo constantemente em desenvolvimento Front-End recentemente com ReactJs, Typescript, JavaScript, HTML5 e CSS3. ###
 
 Tenho experiência no desenvolvimento de aplicações Java Script com código limpo e boa arquitetura, utilizando os seguintes frameworks:
 

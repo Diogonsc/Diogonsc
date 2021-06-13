@@ -57,5 +57,3 @@ Aliados a algumas qualidades pessoais:
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogonsc&layout=compact&hide=html&hide_border=true" alt="Diogonsc" />
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api?username=Diogonsc&show_icons=true&hide_border=true" alt="Diogonsc" /></p>
 
-<div>
-    <img align="center" width="150%" src="https://raw.githubusercontent.com/Diogonsc/Diogonsc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>

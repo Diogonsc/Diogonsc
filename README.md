@@ -4,13 +4,13 @@
 
 # &#128187; Introdução 
 
-### "A arte de programar consiste em organizar e dominar a complexidade." ###
+# "A arte de programar consiste em organizar e dominar a complexidade." ###
 
-### "Não é a linguagem de programação que define o programador, mais sim a sua lógica."
+# "Não é a linguagem de programação que define o programador, mais sim a sua lógica."
 
-### Vivo em constante aprendizado e ansioso para explorar novas tecnologias. ###
+# Vivo em constante aprendizado e ansioso para explorar novas tecnologias. ###
 
-### Gosto de compartilhar conhecimento, afinal aprender não ocupa espaço, mais agrega valores. ### 
+# Gosto de compartilhar conhecimento, afinal aprender não ocupa espaço, mais agrega valores. ### 
 
 
 Tenho experiência no desenvolvimento de aplicações Java Script com código limpo e boa arquitetura, utilizando os seguintes frameworks:

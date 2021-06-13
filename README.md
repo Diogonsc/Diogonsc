@@ -13,7 +13,7 @@
 #### Gosto de compartilhar conhecimento, afinal aprender não ocupa espaço, mais agrega valores. ### 
 
 
-Tenho experiência no desenvolvimento de aplicações Java Script com código limpo e boa arquitetura, utilizando os seguintes frameworks:
+Tenho experiência no desenvolvimento de aplicações Java Script, utilizando os seguintes frameworks:
 
 - ReactJs
 - VueJs
@@ -45,7 +45,7 @@ Aliados a algumas qualidades pessoais:
 
 [![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+5521989020276)
 
-[![GitHub vlarysc](https://img.shields.io/github/followers/Diogonsc?label=follow&style=social)](https://github.com/Diogonsc)
+[![GitHub Diogonsc](https://img.shields.io/github/followers/Diogonsc?label=follow&style=social)](https://github.com/Diogonsc)
 
 # Minhas Tecnologias
 

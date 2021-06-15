@@ -27,6 +27,7 @@ Utilizando em conjunto:
 
 Tecnologias que Pretendo estudar:
 
+- Emity Framework
 - ASP.NET MVC
 - NodeJs
 - NestJs

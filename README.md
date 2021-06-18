@@ -13,17 +13,20 @@
 #### Gosto de compartilhar conhecimento, afinal aprender não ocupa espaço, mais agrega valores. ### 
 
 
-Tenho experiência no desenvolvimento de aplicações Java Script, utilizando os seguintes frameworks:
+Tenho experiência no desenvolvimento de aplicações JAVASCRIPT, utilizando os seguintes frameworks:
 
 - ReactJs
 - VueJs
-- C#
 
 Utilizando em conjunto:
 
 - Bootstrap
 - Material Ui
 - Git, GitHub e GitLab
+    
+Tecnologia que estou estudando: 
+- Javascript
+- C#
 
 Tecnologias que Pretendo estudar:
 

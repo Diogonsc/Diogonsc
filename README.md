@@ -26,13 +26,15 @@ Utilizando em conjunto:
     
 Tecnologia que estou estudando: 
 - Javascript
+- Vue Js
+- React js
+- NodeJs
 - C#
 
 Tecnologias que Pretendo estudar:
 
 - Emity Framework
 - ASP.NET MVC
-- NodeJs
 - NestJs
 - React Native
 

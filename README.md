@@ -11,6 +11,9 @@
   <a href="mailto:diogonsc.dev@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://dev-portifolio-kappa.vercel.app/" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---

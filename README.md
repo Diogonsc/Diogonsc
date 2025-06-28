@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/diogonsc" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:diogonsc.dev@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:diogos.outlook.com" target="_blank">
+    <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://dev-portifolio-kappa.vercel.app/" target="_blank">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-6D51FB?style=flat&logo=world&logoColor=white" />
